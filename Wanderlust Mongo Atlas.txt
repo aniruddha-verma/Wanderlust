@@ -1,0 +1,7 @@
+Mongo Atlas
+29YtjPoN48Auhf75
+wanderlust
+
+mongodb+srv://wanderlust:<db_password>@cluster0.m5ide.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+mongodb+srv://wanderlust:29YtjPoN48Auhf75@cluster0.m5ide.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
